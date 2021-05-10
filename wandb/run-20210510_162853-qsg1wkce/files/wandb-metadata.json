@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.8.0-50-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.3",
+    "heartbeatAt": "2021-05-10T10:58:57.761310",
+    "startedAt": "2021-05-10T10:58:53.467054",
+    "docker": null,
+    "gpu": "GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": "11.0.228",
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-59842f7b-b2ec-4d6c-bd43-ec8cfded70dd.json"
+    ],
+    "state": "running",
+    "program": "00-main.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Regression/House-Sales-in-King-County-USA",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/House-Sales-in-King-County-USA.git",
+        "commit": "35f8aad3fddb07bd984ba8206ed2ea195d009439"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "ranugad",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
